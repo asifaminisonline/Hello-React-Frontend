@@ -126,6 +126,6 @@ I would like to thank microverse for providing all the reading resources to buld
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](#) licensed.
+This project is [MIT](https://github.com/asifaminisonline/One_App/blob/setup/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
