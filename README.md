@@ -28,7 +28,7 @@
 
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
-**[Hello Rails FrontEnd]** is a Rails Front End Appliication to recive the Api provide By the back End App.
+The Greeting App is a simple web application built to demonstrate the implementation of a connection between a Ruby on Rails back-end and a React front-end. It generates random greetings and serves as a learning tool for understanding the integration between these two technologies.
 
 ## 🛠 Built With <a name="built-with"></a>
 
